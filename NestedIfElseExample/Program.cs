@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Program starts");
             Console.WriteLine("We are working on nested if else");
             //In if Condition if we use another if condition then it is called nestedif else
             Console.WriteLine("Value1 : ");
